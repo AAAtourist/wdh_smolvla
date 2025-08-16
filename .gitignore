@@ -78,6 +78,7 @@ coverage.xml
 *.cover
 *.py,cover
 !tests/artifacts
+smolvla_base/
 
 ### Logs & Temporary Files ###
 logs/
